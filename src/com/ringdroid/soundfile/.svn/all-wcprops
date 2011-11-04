@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/62/trunk/src/com/ringdroid/soundfile
+END
+CheapMP3.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/trunk/src/com/ringdroid/soundfile/CheapMP3.java
+END
+CheapAMR.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/trunk/src/com/ringdroid/soundfile/CheapAMR.java
+END
+CheapAAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/62/trunk/src/com/ringdroid/soundfile/CheapAAC.java
+END
+CheapSoundFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/src/com/ringdroid/soundfile/CheapSoundFile.java
+END
+CheapWAV.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/33/trunk/src/com/ringdroid/soundfile/CheapWAV.java
+END

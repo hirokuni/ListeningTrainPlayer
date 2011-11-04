@@ -1,0 +1,20 @@
+MP3 info
+http://kone.vis.ne.jp/diary/diaryb08.html
+http://web.archive.org/web/20040205074427/www.geocities.jp/bywnn498/mp3/
+
+
+//Todo
+CheapSoundFile.createは時間がかかる時があるので、非同期で走らせる必要がある。
+
+File解析が終了したfileからユーザがPlayできるようにしていく。
+
+paser機能。
+　File解析の進捗は記憶しておき、アプリが終了しても、再起動して続行できるようにしておく。
+　data baseを作成する
+　userが対象fileを選択したら、バックグラウンドで進行させとく。
+
+音楽ファイルより、特定の秒数のbyteを取得できる。
+  AAC
+  MP3
+ 
+
